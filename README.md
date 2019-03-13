@@ -9,7 +9,8 @@ Dataset : https://drive.google.com/file/d/1JUM5y1o4hYdZIioy2gN-I22a8673S6Pt/view
 
 # FDA Course Homework
 
-##  Using the first 10000 rows 
+- **For this homework, please use the first 10000 rows ***
+- `pd_data = pd_data[:10000]`
 
 ## 1. Top-10 Reviewer
 
