@@ -19,6 +19,7 @@ Dataset : https://drive.google.com/file/d/1JUM5y1o4hYdZIioy2gN-I22a8673S6Pt/view
 
 ## Desired output
 ![](https://i.imgur.com/pBg5fLo.png)
+![](https://i.imgur.com/y1e5Vj3.png)
 
 ## 2. Plot score distribution for the user with the most number of reviews
 
