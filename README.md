@@ -46,6 +46,7 @@ Dataset : https://drive.google.com/file/d/1JUM5y1o4hYdZIioy2gN-I22a8673S6Pt/view
 
 - If viewers of that comment upvote the comment, then it adds to Helpfulness numerator.
 - If viewers of that comment just make a comment, then it adds to Helpfulness denominator.
+- **Ratio = -1, if both Helpfulness numerator & Helpfulness denominator are zero.**
 - **Note : you should filter out some cases with numerator > denominator**
 - Plot the distribution of helpful percent (hint: .hist())
 
