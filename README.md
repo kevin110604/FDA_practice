@@ -30,9 +30,10 @@ Dataset : https://drive.google.com/file/d/1JUM5y1o4hYdZIioy2gN-I22a8673S6Pt/view
 
 - axis-X : Date of reviews (transfer column "Time" -> Date)
 - axis-Y : Numbers of reviews in the date interval
+- Type : bar graph
 
 ## Desired output
-![](https://i.imgur.com/GL6Ecza.png)
+![](https://i.imgur.com/kRmLLRK.png)
 
 ## 4. Plot HeatMap using seaborn 
 
